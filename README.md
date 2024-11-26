@@ -6,7 +6,7 @@ VRV  backend developer internship assignment video explanation.
 
 
 
---------------------------------------------------------------------------------------------------## Authentication ----------------------------------------------------------------------------
+-------------------------------------------------------## Authentication ----------------------------------------------------------------------------
 
 This application uses **JWT (JSON Web Token)** for secure user authentication. JWT is a compact, URL-safe means of representing claims between two parties. In our case, JWT is used to authenticate users and maintain their session without requiring server-side session storage.
 
